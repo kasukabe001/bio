@@ -1,0 +1,18 @@
+# Common meta files
+*~
+*.bak
+*.BAK
+Thumbs.db
+.DS_Store
+.svn
+
+# Application files/dirs
+.htaccess
+
+# Deploy tool
+.deploy
+deploy.sh
+
+/images/
+/newimg/
+
