@@ -194,6 +194,27 @@ DIV#event_frame {
 }
 
 
+/* メール問い合わせ欄 */
+#header_tel_contact li {
+	float: left;
+	margin: 0 0 0 40px;
+}
+ul {
+	list-style: none;
+}
+#header_tel_contact {
+/*	position: absolute;
+	right: 0px;
+	top: 25px; */
+	margin: 0;
+	visibility: visible;
+}
+#header_inner {
+	width: 1200px;
+	height: 140px;
+	margin: 0 auto;
+	position: relative;
+}
 #header_contact a {
 	display: inline-block;
 	background: #aaa url(img/header/mail2.png) no-repeat 28px 18px;
