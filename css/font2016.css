@@ -221,7 +221,7 @@ ul {
 }
 #header_contact a {
 	display: inline-block;
-	background: #aaa url(./mail2.png) no-repeat 15px 9px;
+	background: #aaa url(../images/mail2.png) no-repeat 15px 9px;
 	padding: 7px 10px 0px 60px;
 	height: 50px;
 	line-height: 20px;
