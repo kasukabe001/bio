@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<HEAD>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<TITLE>生物データ保管サービス</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=shift_jis">
+<META content="春日部市,自然,調査,市民による自然調査,自然観察会,外来生物調査" name=keywords>
+<LINK REL="SHORTCUT ICON" HREF="Haguro.ico"> 
+	<link rel="stylesheet" href="siken.css" type="text/css" />
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function CityOnly() {
+	value = document.getElementById("city2").checked;
+	if (value == true) {
+		document.getElementById("prefecture").value="";
+		document.getElementById("prefecture").style.visibility = "hidden";
+	
+	} else {
+		document.getElementById("prefecture").value="";
+		document.getElementById("prefecture").style.visibility = "visible";
+	}
+}
+//-->
+</script>
+
+</head>
+<body>
+<form name="form1" method="POST" action="filename.php">
+都市名：
+<input name="city" id="city1" onclick="CityOnly();" type="radio" value="さいたま市">さいたま市 
+<input name="city" id="city2" onclick="CityOnly();" type="radio" value="川口市">川口市 
+<input name="city" id="city3" onclick="CityOnly();" type="radio" value="春日部市">春日部市
+<br>
+県名：<input name="prefecture" id="prefecture" type="text" >
+</form>
+
+
+<div class="box1">
+border-radius: 25px;<br>
+</div>
+<div class="box2">
+border-radius: 15px;<br>
+</div>
+<div class="box3">
+border-radius: 5px;<br>
+</div>
+
+
+</body>
+
+
+</HTML>
