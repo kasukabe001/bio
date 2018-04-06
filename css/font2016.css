@@ -1,0 +1,237 @@
+A {
+	COLOR: #00f; TEXT-DECORATION: none 
+	
+}
+a:link,a:visited,a:active {color: red; /* color: #0000FF; */ }
+
+img {
+	border:0;
+}
+
+/* A:hover {
+	COLOR: red; TEXT-DECORATION: underline
+} */
+
+
+BODY {
+	overflow-x: hidden;
+}
+hr {
+/*	border:none; */
+/*	border-top:dashed 1px; */
+	color=#000000;
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+
+.f06 {
+	FONT-SIZE: 6pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f07 {
+	FONT-SIZE: 7pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f08 {
+	FONT-SIZE: 8pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f09 {
+	FONT-SIZE: 9pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f10 {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f11 {
+	FONT-SIZE: 11pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f12 {
+	FONT-SIZE: 12pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f13 {
+	FONT-SIZE: 13pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f14 {
+	FONT-SIZE: 14pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f15 {
+	FONT-SIZE: 15pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.f16 {
+	FONT-SIZE: 16pt; LINE-HEIGHT: 130%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.aki_04 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 4px; MARGIN: 4px; PADDING-TOP: 4px; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.aki_06 {
+	PADDING-RIGHT: 6px; PADDING-LEFT: 6px; PADDING-BOTTOM: 6px; MARGIN: 6px; PADDING-TOP: 6px; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.aki_08 {
+	PADDING-RIGHT: 8px; PADDING-LEFT: 8px; PADDING-BOTTOM: 8px; MARGIN: 8px; PADDING-TOP: 8px; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.aki_10 {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; MARGIN: 10px; PADDING-TOP: 10px; FONT-FAMILY: Helvetica, Arial, sans-serif
+}
+.news {
+	PADDING-BOTTOM: 0px;
+	PADDING-RIGHT: 8px; PADDING-LEFT: 2px; 
+	FONT-SIZE: 10px; 
+	MARGIN: 0px 8px 0px 2px; 
+	LINE-HEIGHT: 130%; 
+	PADDING-TOP: 0px; 
+	FONT-FAMILY: Helvetica, Arial, sans-serif;
+	LETTER-SPACING: 0px
+}
+
+.title {
+	FONT-SIZE: 12px; MARGIN-BOTTOM: 6px; PADDING-BOTTOM: 6px; FONT-FAMILY: Helvetica, Arial, sans-serif; BACKGROUND-COLOR: white
+}
+.aisatsu {
+	FONT-SIZE: 10pt; LINE-HEIGHT: 150%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+.aisatsu2 {
+	PADDING-LEFT: 4px; FONT-SIZE: 11pt; MARGIN-LEFT: 4px; LINE-HEIGHT: 165%; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px
+}
+#theme {
+	BORDER-RIGHT: #969696; PADDING-RIGHT: 3px; BORDER-TOP: #969696; PADDING-LEFT: 3px; FONT-WEIGHT: bolder; FONT-SIZE: 13pt; PADDING-BOTTOM: 3px; BORDER-LEFT: #f0cdcd 6px solid; COLOR: #fff; PADDING-TOP: 3px; BORDER-BOTTOM: #969696; BACKGROUND-REPEAT: repeat; FONT-STYLE: italic; BACKGROUND-COLOR: #945678
+}
+.waku_waku {
+	font-size: 11px;
+	BORDER-RIGHT: #e64638 ; 
+	PADDING-RIGHT: 8px; BORDER-TOP: #e64638; PADDING-LEFT: 8px; PADDING-BOTTOM: 5px; BORDER-LEFT: #e64638;
+	PADDING-TOP: 5px; BORDER-BOTTOM: #e64638 ; BACKGROUND-COLOR: #ffffff;
+	MARGIN-top: 5px;
+}
+
+#headder1 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; PADDING-BOTTOM: 4px; COLOR: white; PADDING-TOP: 4px; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #006060 ;
+} 
+
+
+#headder2 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; PADDING-BOTTOM: 4px; COLOR: white; PADDING-TOP: 4px; FONT-FAMILY: Helvetica, Arial, sans-serif; BACKGROUND-COLOR:#66CDAA;
+}
+#headder3 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 14pt; PADDING-BOTTOM: 4px; COLOR: #006060; PADDING-TOP: 4px; FONT-FAMILY: Verdana; BACKGROUND-COLOR: #FFFFFF;border-color: #006060; border-style: double;
+}
+
+#event {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 4px; COLOR: white; PADDING-TOP: 4px; FONT-FAMILY: Georgia; BACKGROUND-COLOR: #0067b3;
+}
+
+
+#copy {
+	PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 8pt; PADDING-BOTTOM: 3px; COLOR: #fff; PADDING-TOP: 3px; BACKGROUND-COLOR: #e64638; TEXT-ALIGN: center; 
+}
+
+#news {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 8px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 4px; COLOR: white; PADDING-TOP: 4px; FONT-FAMILY: Georgia; BACKGROUND-COLOR: #e64638
+}
+
+DIV#news_frame {
+	OVERFLOW: auto; 
+	HEIGHT: 84px;
+        width: 300px;
+        background-color: #FFF5EE;
+	padding-left: 5px;
+}
+DIV#event_frame {
+	OVERFLOW: auto; HEIGHT: 260px;
+}
+.day {
+	BORDER-RIGHT: #c00 3px solid; PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-WEIGHT: bold; FONT-SIZE: 10pt; PADDING-BOTTOM: 2px; BORDER-LEFT: #c00 3px solid; COLOR: #c00; PADDING-TOP: 2px; FONT-FAMILY: Helvetica, Arial, sans-serif; LETTER-SPACING: 0px; BACKGROUND-COLOR: #ffcdce
+}
+
+/* ■コラム枠 */
+
+.boxv {	/* 点線仕切り */
+	background:#fcfcfc url(nl-v002.gif) repeat-y left;
+}
+
+.wakuKoukoku {
+	font-size: 12px;
+	padding: 0 20px;
+	border: 1px dotted #f90;
+	background-color: #ffe;
+}
+.mukashi_tonbo {
+	color:#300; /* 307A46; */
+	PADDING-LEFT: 5px; 
+}
+.acc1 {
+	cursor:pointer;
+	color:#4169E1;
+	font-size: 13px;
+} 
+/*  bootstrap用 */
+/*gridのgutter調整*/
+.padding1{ 
+	padding-left: 10px;
+}
+.padding2{ 
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.padding3{ 
+	padding-right: 10px;
+}
+.rinen{ 
+	text-align: center;
+}
+
+/* 横幅が640px以上979px以下の場合に適用 */
+@media screen and (min-width: 640px) and (max-width: 979px){
+  .rinen{ 
+	text-align: left;
+  }
+  DIV#news_frame {
+	HEIGHT: 80px;
+        width: 260px;
+  }
+}
+/* 横幅が639px以下の場合に適用 */
+@media screen and (max-width: 639px){
+  .rinen{ 
+	text-align: left;
+  }
+  DIV#news_frame {
+	HEIGHT: 80px;
+        width: 210px;
+  }
+}
+
+
+/* メール問い合わせ欄 */
+#header_tel_contact li {
+	float: left;
+	margin: 0 0 0 40px;
+}
+ul {
+	list-style: none;
+}
+#header_tel_contact {
+/*	position: absolute;
+	right: 0px;
+	top: 25px; */
+	margin: 0;
+	visibility: visible;
+}
+#header_inner {
+	width: 1200px;
+	height: 140px;
+	margin: 0 auto;
+	position: relative;
+}
+#header_contact a {
+	display: inline-block;
+	background: #aaa url(../images/mail2.png) no-repeat 15px 9px;
+	padding: 7px 10px 0px 60px;
+	height: 50px;
+	line-height: 20px;
+	color: #0000ff;
+	font-size: 14px -moz-box-sizing:border-box;
+	-webkit-box-sizing: border-box;
+	-o-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+
