@@ -9,10 +9,13 @@ Thumbs.db
 # Application files/dirs
 .htaccess
 
+# konnyu file
+Twitter_download..zip
+
 # Deploy tool
 .deploy
 deploy.sh
 
 /images/
-/newimg/
+/newing/
 
